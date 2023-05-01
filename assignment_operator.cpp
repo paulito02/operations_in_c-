@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 main()
+ #making use of assignment operators in c++
 {
  int a = 21;
  int c ;
